@@ -17,7 +17,7 @@
     "react-dom": "^15.5.4",
     "webpack": "^2.5.1",
     "husky": "^0.14.3",
-    "lint-staged": "^4.2.3",
+    "lint-staged": "^10.2.13",
     "prettier": "1.7.4"
   },
   "peerDependencies": {
