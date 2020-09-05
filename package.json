@@ -32,7 +32,7 @@
     "precommit": "lint-staged"
   },
   "dependencies": {
-    "papaparse": "^4.3.6"
+    "papaparse": "^5.2.0"
   },
   "lint-staged": {
     "*.{js,json,css}": [
